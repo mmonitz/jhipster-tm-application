@@ -1,0 +1,39 @@
+{
+  "generator-jhipster": {
+    "applicationType": "monolith",
+    "gitCompany": "",
+    "baseName": "jhipsterTMApplication",
+    "packageName": "io.github.jhipster.tmapplication",
+    "packageFolder": "io/github/jhipster/tmapplication",
+    "serverPort": 8080,
+    "serviceDiscoveryType": false,
+    "authenticationType": "jwt",
+    "uaaBaseName": "../uaa",
+    "cacheProvider": "no",
+    "enableHibernateCache": false,
+    "websocket": false,
+    "databaseType": "couchbase",
+    "devDatabaseType": "couchbase",
+    "prodDatabaseType": "couchbase",
+    "searchEngine": false,
+    "enableSwaggerCodegen": false,
+    "messageBroker": false,
+    "buildTool": "maven",
+    "useSass": false,
+    "clientPackageManager": "npm",
+    "testFrameworks": [],
+    "enableTranslation": false,
+    "nativeLanguage": "en",
+    "languages": [
+      "en"
+    ],
+    "clientFramework": "angularX",
+    "jhiPrefix": "jhi",
+    "jhipsterVersion": "5.7.0",
+    "jwtSecretKey": "M2IwNmQ1NGIyODAyODQ4M2IzZDJhZjNlOTEyN2JjY2VhZmFhNjkwNTI5NjJiYTYzMDIwYmEzNjkxMzdiNGE2NjRlOGQ5Yzg3MmNkYTQ4ZTdjZDY5NDFmMGVjMzBkNWJiOGU4YzJiZTgzMjVjNmMyMGQxMzViNDczZTdlZjBhZTE=",
+    "otherModules": []
+  },
+  "git-provider": "GitHub",
+  "git-company": "mmonitz",
+  "repository-name": "jhipster-tm-application"
+}
